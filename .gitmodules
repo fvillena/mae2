@@ -1,0 +1,3 @@
+[submodule "spanish_diagnostics"]
+	path = spanish_diagnostics
+	url = https://huggingface.co/datasets/fvillena/spanish_diagnostics

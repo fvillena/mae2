@@ -9,4 +9,4 @@ notebook
 ipywidgets
 IProgress
 wordcloud==1.8.1
-PIL==7.0.0
+Pillow==7.0.0

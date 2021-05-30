@@ -6,3 +6,4 @@ tokenizers==0.10.2
 nltk==3.4.5
 pytest
 notebook
+IProgress

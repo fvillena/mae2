@@ -12,3 +12,6 @@ def _exec_notebook(path):
 
 def test_1():
     _exec_notebook('1-preprocessing.ipynb')
+
+def test_2():
+    _exec_notebook('2-statistics.ipynb')

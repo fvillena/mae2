@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fvillena/mae2/HEAD)
 [![Build Status](https://www.travis-ci.com/fvillena/mae2.svg?branch=master)](https://www.travis-ci.com/fvillena/mae2)
 
-Curso de Procesamiento de Lenguaje Natural del Programa de Magíster en Informática Médica. En este repositorio estarán disponibles todos los recursos que se generen en el curso.
+Curso de Procesamiento de Lenguaje Natural del Programa de Magíster en Informática Médica de la Universidad de Chile. En este repositorio estarán disponibles todos los recursos que se generen en el curso.
 
 ## Ambiente de trabajo
 

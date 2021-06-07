@@ -5,6 +5,14 @@
 
 Curso de Procesamiento de Lenguaje Natural del Programa de Magíster en Informática Médica de la Universidad de Chile. En este repositorio estarán disponibles todos los recursos que se generen en el curso.
 
+## Clonar el repositorio
+
+Para poder clonar localmente este repositorio deben ejecutar el siguiente comando:
+
+```
+git clone --recurse-submodules https://github.com/fvillena/mae2.git
+```
+
 ## Ambiente de trabajo
 
 A lo largo de todo el curso utilizaremos el lenguaje de programación Python con una serie de bibliotecas para el análisis de datos no estructurados. Para ver la lista de bibliotecas usadas, referirse al archivo `requirements.txt`. Para la preparación local del ambiente de desarrollo recomendamos utilizar un ambiente virtual de Python para instalar los requerimientos del curso (`requirements.txt`), esto asegura la reproducibilidad del código generado en el curso. Para aprender sobre ambientes virtuales se recomienda leer estas páginas de documentación oficial

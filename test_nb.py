@@ -19,5 +19,5 @@ def test_1_2():
 def test_2():
     _exec_notebook('2-statistics.ipynb')
 
-def test_2():
+def test_3():
     _exec_notebook('3-document_representation_classification.ipynb')

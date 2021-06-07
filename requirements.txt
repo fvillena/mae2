@@ -10,3 +10,6 @@ ipywidgets
 IProgress
 wordcloud==1.8.1
 Pillow==7.0.0
+gensim==3.8.3
+plotly==4.14.3
+sklearn==0.23.2

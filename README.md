@@ -13,6 +13,8 @@ Para poder clonar localmente este repositorio deben ejecutar el siguiente comand
 git clone --recurse-submodules https://github.com/fvillena/mae2.git
 ```
 
+Pueden mirar este video para entender cómo funciona Git https://www.youtube.com/watch?v=yXT1ElMEkW8
+
 ## Ambiente de trabajo
 
 A lo largo de todo el curso utilizaremos el lenguaje de programación Python con una serie de bibliotecas para el análisis de datos no estructurados. Para ver la lista de bibliotecas usadas, referirse al archivo `requirements.txt`. Para la preparación local del ambiente de desarrollo recomendamos utilizar un ambiente virtual de Python para instalar los requerimientos del curso (`requirements.txt`), esto asegura la reproducibilidad del código generado en el curso. Para aprender sobre ambientes virtuales se recomienda leer estas páginas de documentación oficial

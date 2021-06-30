@@ -27,3 +27,15 @@ Los pasos prácticos del curso se desarrollarán mediante la interfaz de desarro
 ## Ambiente de trabajo en la nube
 
 Si prefieres no trabajar localmente, este repositorio está preparado para ser ejecutado desde un Binder, un ambiente virtual en la nube para trabajar con Jupyter Notebooks: https://mybinder.org/v2/gh/fvillena/mae2/HEAD
+
+## Presentaciones
+
+- Clase 1: https://docs.google.com/presentation/d/16CFCB2vEsoCKcNwhh2sVo1LbjmStc6VxDw4w9b7dFKI/edit?usp=sharing
+- Clase 2: https://docs.google.com/presentation/d/1dA2CRSND0WR7RlrsN1GP7se65oJIJ_22dKI__9RBCa4/edit?usp=sharing
+- Clase 3: https://docs.google.com/presentation/d/1aVz2YMUpO1aoz4ljcuM4tbvNMlJauJTAcXjnvW2rJZI/edit?usp=sharing
+- Clase 4: https://docs.google.com/presentation/d/1s7KHmwby591Q63DFOodzAnBF44aYUG2yF5ULQiw6PSg/edit?usp=sharing
+- Clase 5: 
+- Clase 6: https://docs.google.com/presentation/d/1KR1x2Glh1TSwcylfSEDfb7Ijh9iLuZWb7ODisn_D1UQ/edit?usp=sharing
+- Clase 7: https://docs.google.com/presentation/d/165e-ME3jv62IhYi_1dorUVeoFVgUj3J5IcEP-dGRFhw/edit?usp=sharing
+- Clase 8: https://docs.google.com/presentation/d/1ZbBJtKiDp0IrZtYO9y_AM7s3Y41mcflD4-HMNHEWNmQ/edit?usp=sharing
+- Clase 9:

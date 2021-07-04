@@ -24,3 +24,6 @@ def test_3():
 
 def test_4():
     _exec_notebook('4-word_embeddings_classification.ipynb')
+
+def test_9():
+    _exec_notebook('9-anonymization.ipynb')

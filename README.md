@@ -30,12 +30,12 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 
 ## Presentaciones
 
-- Clase 1: https://docs.google.com/presentation/d/16CFCB2vEsoCKcNwhh2sVo1LbjmStc6VxDw4w9b7dFKI/edit?usp=sharing
-- Clase 2: https://docs.google.com/presentation/d/1dA2CRSND0WR7RlrsN1GP7se65oJIJ_22dKI__9RBCa4/edit?usp=sharing
-- Clase 3: https://docs.google.com/presentation/d/1aVz2YMUpO1aoz4ljcuM4tbvNMlJauJTAcXjnvW2rJZI/edit?usp=sharing
-- Clase 4: https://docs.google.com/presentation/d/1s7KHmwby591Q63DFOodzAnBF44aYUG2yF5ULQiw6PSg/edit?usp=sharing
-- Clase 5: https://docs.google.com/presentation/d/1ycmoKNbBhVxXbgO1n7c_N10DpPVeLm6epa_u1c0I6Fo/edit?usp=sharing
-- Clase 6: https://docs.google.com/presentation/d/1KR1x2Glh1TSwcylfSEDfb7Ijh9iLuZWb7ODisn_D1UQ/edit?usp=sharing
-- Clase 7: https://docs.google.com/presentation/d/165e-ME3jv62IhYi_1dorUVeoFVgUj3J5IcEP-dGRFhw/edit?usp=sharing
-- Clase 8: https://docs.google.com/presentation/d/1ZbBJtKiDp0IrZtYO9y_AM7s3Y41mcflD4-HMNHEWNmQ/edit?usp=sharing
-- Clase 9:
+- Clase 1: https://docs.google.com/presentation/d/16CFCB2vEsoCKcNwhh2sVo1LbjmStc6VxDw4w9b7dFKI
+- Clase 2: https://docs.google.com/presentation/d/1dA2CRSND0WR7RlrsN1GP7se65oJIJ_22dKI__9RBCa4
+- Clase 3: https://docs.google.com/presentation/d/1aVz2YMUpO1aoz4ljcuM4tbvNMlJauJTAcXjnvW2rJZI
+- Clase 4: https://docs.google.com/presentation/d/1s7KHmwby591Q63DFOodzAnBF44aYUG2yF5ULQiw6PSg
+- Clase 5: https://docs.google.com/presentation/d/1ycmoKNbBhVxXbgO1n7c_N10DpPVeLm6epa_u1c0I6Fo
+- Clase 6: https://docs.google.com/presentation/d/1KR1x2Glh1TSwcylfSEDfb7Ijh9iLuZWb7ODisn_D1UQ
+- Clase 7: https://docs.google.com/presentation/d/165e-ME3jv62IhYi_1dorUVeoFVgUj3J5IcEP-dGRFhw
+- Clase 8: https://docs.google.com/presentation/d/1ZbBJtKiDp0IrZtYO9y_AM7s3Y41mcflD4-HMNHEWNmQ
+- Clase 9: https://docs.google.com/presentation/d/1obutqaVdSsZqU7TS5UrxcYI50fLZ2Bx7lNKDjnVtYM8

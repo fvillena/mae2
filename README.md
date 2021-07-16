@@ -39,3 +39,16 @@ Si prefieres no trabajar localmente, este repositorio está preparado para ser e
 - Clase 7: https://docs.google.com/presentation/d/165e-ME3jv62IhYi_1dorUVeoFVgUj3J5IcEP-dGRFhw
 - Clase 8: https://docs.google.com/presentation/d/1ZbBJtKiDp0IrZtYO9y_AM7s3Y41mcflD4-HMNHEWNmQ
 - Clase 9: https://docs.google.com/presentation/d/1obutqaVdSsZqU7TS5UrxcYI50fLZ2Bx7lNKDjnVtYM8
+
+## Grabaciones
+
+- Clase 1: https://www.youtube.com/watch?v=UXXH0qp7HhE
+- Clase 2: https://www.youtube.com/watch?v=JLffWDCBrTI
+- Clase 3: https://www.youtube.com/watch?v=eodRUiQ3itg
+- Clase 4: https://www.youtube.com/watch?v=zlE8qiHIx4A
+- Clase 5: https://www.youtube.com/watch?v=ACeeeDt9JIM
+- Clase 6: https://www.youtube.com/watch?v=kRnvemH5sag
+- Clase 7: https://www.youtube.com/watch?v=E4dV9scXDnw
+- Clase 8: https://www.youtube.com/watch?v=MVG0wQYOzxI
+- Clase 9: https://www.youtube.com/watch?v=mY4yeK_4Zao
+

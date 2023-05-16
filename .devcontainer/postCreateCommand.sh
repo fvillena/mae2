@@ -1,4 +1,3 @@
-git config --global core.fileMode false
 git config --global core.autocrlf true
 git config --global --add safe.directory /workspaces/mae2
 git submodule update --init

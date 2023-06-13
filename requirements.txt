@@ -171,3 +171,4 @@ wordcloud==1.9.1.1
 wrapt==1.14.1
 xxhash==3.2.0
 yarl==1.9.2
+seaborn==0.12.2

@@ -40,5 +40,9 @@ Si prefieres no trabajar localmente y tampoco quieres una cuenta en GitHub, este
 
 ## Grabaciones
 
+- Clase 1: https://www.youtube.com/live/i0zjGZEVgGo
+- Clase 2: https://www.youtube.com/live/YZHhHz0na3o
+- Clase 3: https://www.youtube.com/live/rxJ3sgFZxpU
+- Clase 4: https://www.youtube.com/live/_o-rNum_OVA
 
 

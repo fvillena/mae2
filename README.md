@@ -49,3 +49,5 @@ Si prefieres no trabajar localmente y tampoco quieres una cuenta en GitHub, este
 - Clase 3: https://www.youtube.com/live/rxJ3sgFZxpU
 - Clase 4: https://www.youtube.com/live/_o-rNum_OVA
 - Clase 5: -
+- Clase 6: https://www.youtube.com/live/Pl9Eji-Vdls
+- Clase 7: https://www.youtube.com/live/eoBPDlNpdYI

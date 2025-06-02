@@ -16,7 +16,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"onCreateCommand": "chmod +x ./.devcontainer/onCreateCommand.sh && ./.devcontainer/onCreateCommand.sh",
+	"onCreateCommand": "./.devcontainer/onCreateCommand.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [

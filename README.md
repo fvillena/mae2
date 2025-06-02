@@ -33,21 +33,8 @@ Si prefieres no trabajar localmente y tampoco quieres una cuenta en GitHub, este
 
 ## Presentaciones
 
-- Clase 1: https://docs.google.com/presentation/d/1Cw9kfzAqyVz-LYO31UerHvk3JL1fHMfScYFLWWFm_vc
-- Clase 2: https://docs.google.com/presentation/d/1-aZFE5pprTi6UYGjBhOzsa-j5ZwdrN-8Wi6JqKkTTEs
-- Clase 3: https://docs.google.com/presentation/d/1pF7Of4rMSKQLdffXOwSFyEpn3ka4Zic_9jPb1sbXYgQ
-- Clase 4: https://docs.google.com/presentation/d/1KmvAHKj5QIfM7HcFq-4PGcrWxXm2iixQJcqCHYzVeHE
-- Clase 5: -
-- Clase 6: https://docs.google.com/presentation/d/1DvpsMwvvaRe1LePznEIkMzxMo_f89DrZPBLNW369caQ
-- Clase 7: https://docs.google.com/presentation/d/1en2j2z3Jc2FlZEzcU3rKBrmAdP_dWXVLq26mFijXrV0
-- Clase 8: https://docs.google.com/presentation/d/1zV0il7zY42QE0OMfWTKlmhf6j_XX0SmjZR6teN7fVEw
+- Clase 1: 
 
 ## Grabaciones
 
-- Clase 1: https://www.youtube.com/live/i0zjGZEVgGo
-- Clase 2: https://www.youtube.com/live/YZHhHz0na3o
-- Clase 3: https://www.youtube.com/live/rxJ3sgFZxpU
-- Clase 4: https://www.youtube.com/live/_o-rNum_OVA
-- Clase 5: -
-- Clase 6: https://www.youtube.com/live/Pl9Eji-Vdls
-- Clase 7: https://www.youtube.com/live/eoBPDlNpdYI
+- Clase 1: 

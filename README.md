@@ -33,7 +33,7 @@ Si prefieres no trabajar localmente y tampoco quieres una cuenta en GitHub, este
 
 ## Presentaciones
 
-- Clase 1: 
+- Clase 1: https://docs.google.com/presentation/d/1foG_R0vUMstXnoE7v0bcN7YkdKHS4TX3UWSHBbOAMqw/edit?usp=sharing
 
 ## Grabaciones
 

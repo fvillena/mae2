@@ -6,3 +6,7 @@ tokenizers
 nltk
 matplotlib
 wordcloud
+scikit-learn
+plotly
+gensim
+scipy==1.12

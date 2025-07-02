@@ -10,3 +10,6 @@ scikit-learn
 plotly
 gensim
 scipy==1.12
+dspy
+pydantic
+faiss-cpu
